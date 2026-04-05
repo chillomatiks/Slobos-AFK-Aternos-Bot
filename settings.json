@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1-WocheSMP.aternos.me",
+    "ip": "",
     "port": 58915,
     "version": "",
     "try-creative": false
